@@ -1,5 +1,5 @@
-📘 AWS Structure Guide & Deep Dive Articles
-Welcome to the AWS Structure Guide repository! This project is designed to help students, developers, and aspiring cloud engineers understand the architecture, services, and real-world usage of AWS in the most simple and structured way possible.
+# 📘 AWS Structure Guide & Deep Dive Articles
+**Welcome to the AWS Structure Guide repository! This project is designed to help students, developers, and aspiring cloud engineers understand the architecture, services, and real-world usage of AWS in the most simple and structured way possible.
 
 This repo includes:
 
